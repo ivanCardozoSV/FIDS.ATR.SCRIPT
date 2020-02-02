@@ -5,7 +5,7 @@ This is a script make it to migrate xml  files to json files.
 Steps :
 
 1) 
-In the Program.cs file put inside the route of the xml file you want to track.
+In the FIDS.ATR.SCRIPT.Console ---> Program.cs file put inside the route of the xml file you want to track.
 
 
 2)
