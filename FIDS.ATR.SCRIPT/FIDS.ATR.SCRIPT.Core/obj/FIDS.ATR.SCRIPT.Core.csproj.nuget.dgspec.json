@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\FIDS.ATR.SCRIPT\\FIDS.ATR.SCRIPT.Core\\FIDS.ATR.SCRIPT.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\dotnet-config2json\\src\\dotnet-config2json\\dotnet-config2json.csproj": {
+      "version": "0.3.0-rtm.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\dotnet-config2json\\src\\dotnet-config2json\\dotnet-config2json.csproj",
+        "projectName": "dotnet-config2json",
+        "projectPath": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\dotnet-config2json\\src\\dotnet-config2json\\dotnet-config2json.csproj",
+        "packagesPath": "C:\\Users\\PV853NQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\dotnet-config2json\\.build\\obj\\dotnet-config2json\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\PV853NQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1",
+          "netcoreapp2.2",
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          },
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          },
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        },
+        "netcoreapp2.2": {
+          "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        },
+        "netcoreapp3.1": {
+          "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\FIDS.ATR.SCRIPT\\FIDS.ATR.SCRIPT.Core\\FIDS.ATR.SCRIPT.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\FIDS.ATR.SCRIPT\\FIDS.ATR.SCRIPT.Core\\FIDS.ATR.SCRIPT.Core.csproj",
+        "projectName": "FIDS.ATR.SCRIPT.Core",
+        "projectPath": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\FIDS.ATR.SCRIPT\\FIDS.ATR.SCRIPT.Core\\FIDS.ATR.SCRIPT.Core.csproj",
+        "packagesPath": "C:\\Users\\PV853NQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\FIDS.ATR.SCRIPT\\FIDS.ATR.SCRIPT.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PV853NQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\dotnet-config2json\\src\\dotnet-config2json\\dotnet-config2json.csproj": {
+                "projectPath": "C:\\Users\\PV853NQ\\Desktop\\DummyApp\\FIDSATRSCRIPT\\dotnet-config2json\\src\\dotnet-config2json\\dotnet-config2json.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

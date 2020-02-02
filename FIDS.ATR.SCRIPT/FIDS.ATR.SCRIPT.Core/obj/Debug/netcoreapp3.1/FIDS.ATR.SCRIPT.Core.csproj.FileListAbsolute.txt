@@ -1,0 +1,11 @@
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\bin\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.deps.json
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\bin\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.dll
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\bin\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.pdb
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\bin\Debug\netcoreapp3.1\dotnet-config2json.dll
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\bin\Debug\netcoreapp3.1\dotnet-config2json.pdb
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\obj\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.csprojAssemblyReference.cache
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\obj\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.AssemblyInfoInputs.cache
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\obj\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.AssemblyInfo.cs
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\obj\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.csproj.CopyComplete
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\obj\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.dll
+C:\Users\PV853NQ\Desktop\DummyApp\FIDSATRSCRIPT\FIDS.ATR.SCRIPT\FIDS.ATR.SCRIPT.Core\obj\Debug\netcoreapp3.1\FIDS.ATR.SCRIPT.Core.pdb
